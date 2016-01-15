@@ -10,7 +10,7 @@ import Foundation
 
 class APIRequest{
     static func getLocalJson(completion:(resultJson: Array<Dictionary<String,AnyObject>>) -> Void ){
-        if let path = NSBundle.mainBundle().pathForResource("2016-treasury", ofType: "json")
+        if let path = NSBundle.mainBundle().pathForResource(LOCAL_JSON_NAME, ofType: "json")
         {
             do{
                 let jsonData = try NSData(contentsOfFile: path, options: NSDataReadingOptions.DataReadingMappedIfSafe)

@@ -15,7 +15,27 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" alpha="0.90000000000000002" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash" translatesAutoresizingMaskIntoConstraints="NO" id="Zm5-Mq-G1G">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" alpha="0.69999999999999996" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconmain2" translatesAutoresizingMaskIntoConstraints="NO" id="gPx-A6-QgF">
+                                <rect key="frame" x="225" y="225" width="150" height="150"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="150" id="Nl7-ua-Coa"/>
+                                    <constraint firstAttribute="width" constant="150" id="Sp4-d4-cXH"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.042701922357082367" green="0.5931357741355896" blue="0.92542248964309692" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="Zm5-Mq-G1G" secondAttribute="trailing" id="1iy-hf-ye7"/>
+                            <constraint firstItem="gPx-A6-QgF" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="CyE-6R-Naj"/>
+                            <constraint firstItem="Zm5-Mq-G1G" firstAttribute="bottom" secondItem="xb3-aO-Qok" secondAttribute="top" id="G6l-ca-cBT"/>
+                            <constraint firstItem="Zm5-Mq-G1G" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="VYU-6a-xdl"/>
+                            <constraint firstItem="gPx-A6-QgF" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="ZAy-aU-shy"/>
+                            <constraint firstItem="Zm5-Mq-G1G" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="sb6-uG-4f9"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -23,4 +43,8 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="iconmain2" width="400" height="400"/>
+        <image name="splash" width="640" height="1137"/>
+    </resources>
 </document>

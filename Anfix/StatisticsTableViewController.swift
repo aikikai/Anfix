@@ -10,10 +10,8 @@ import UIKit
 
 class StatisticsTableViewController: UITableViewController {
 
-    
     var year : String?
     var metrixArray = [Metric]()
-    
     var dataDict = [String : Array<Metric>]()
     var keys = [String]()
     

@@ -220,7 +220,6 @@ class ViewController: UIViewController, ChartViewDelegate {
         self.view.backgroundColor = UIColor.whiteColor()
         navigationController?.navigationBar.barTintColor = UIColor().RBGColor(red: 10, green: 103, blue: 183)
         self.navigationController?.navigationBar.translucent = false
-        self.navigationController?.navigationBar.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.blackColor()]
     }
 }
 
