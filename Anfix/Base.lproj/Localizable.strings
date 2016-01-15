@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Anfix
+
+  Created by Luciano Wehrli on 12/1/16.
+  Copyright © 2016 LUCIANO WEHRLI. All rights reserved.
+*/
+
+"main_title" = "Year";
+"data_list" = "The Whole Data";
+
+"credits_title" = "Credits";
+"credits_footer" = "CopyRight 2016";
+"credits_content" = "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.";
+
+"graph_required_data" = "Data is required to depict the graph.";
+
+"month_1" = "January";
+"month_2" = "February";
+"month_3" = "March";
+"month_4" = "April";
+"month_5" = "May";
+"month_6" = "June";
+"month_7" = "July";
+"month_8" = "August";
+"month_9" = "September";
+"month_10" = "October";
+"month_11" = "November";
+"month_12" = "Dicember";
+
+"currency" = "u$s";
+"treasury" = "Treasury";
+
+"mon1" = "Jan";
+"mon2" = "Feb";
+"mon3" = "Mar";
+"mon4" = "Apr";
+"mon5" = "May";
+"mon6" = "Jun";
+"mon7" = "Jul";
+"mon8" = "Aug";
+"mon9" = "Sep";
+"mon01" = "Oct";
+"mon11" = "Nov";
+"mon12" = "Dec";

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AZDropdownMenu-AZDropdownMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>AZDropdownMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>44FE5F7F5132F804C9FA3881DF417A55</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7CD68A8C02E169C193298EFCFBC0696A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D56B97D6E7CECAD52519E83BAD870389</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FF1AC95FEDA4C179E1542644ED65C2D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

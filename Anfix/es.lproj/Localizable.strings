@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Anfix
+
+  Created by Luciano Wehrli on 12/1/16.
+  Copyright © 2016 LUCIANO WEHRLI. All rights reserved.
+*/
+
+"main_title" = "Año";
+"data_list" = "Todos los datos";
+
+"credits_title" = "Créditos";
+"credits_footer" = "Derechos Reservados 2016";
+"credits_content" = "Simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó completo.";
+
+"graph_required_data" = "Se requiere datos para el gráfico.";
+
+"month_1" = "Enero";
+"month_2" = "Febrero";
+"month_3" = "Marzo";
+"month_4" = "Abril";
+"month_5" = "Mayo";
+"month_6" = "Junio";
+"month_7" = "Julio";
+"month_8" = "Agosto";
+"month_9" = "Septiembre";
+"month_10" = "Octubre";
+"month_11" = "Noviembre";
+"month_12" = "Diciembre";
+
+"currency" = "€";
+"treasury" = "Tesorería";
+
+"mon1" = "Ene";
+"mon2" = "Feb";
+"mon3" = "Mar";
+"mon4" = "Abr";
+"mon5" = "May";
+"mon6" = "Jun";
+"mon7" = "Jul";
+"mon8" = "Ago";
+"mon9" = "Sep";
+"mon10" = "Oct";
+"mon11" = "Nov";
+"mon12" = "Dic";
